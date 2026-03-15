@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "いえない / 重音テトSV【MV】",
+  "base_artist": "にほしか",
+  "createdAt": "2026-03-15T13:20:24.084876Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "いえない",
+      "artist": "MAISONdes/堂村 璃羽/301/GeG",
+      "has_synced": true,
+      "path": "select/01_いえない_MAISONdes_堂村_璃羽_301_GeG.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "いえない",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/02_いえない_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "いえない",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/03_いえない_MAISONdes.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いえない",
+      "artist": "にほしか",
+      "has_synced": false,
+      "path": "select/pl_01_いえない_にほしか.txt"
+    }
+  ]
+}
